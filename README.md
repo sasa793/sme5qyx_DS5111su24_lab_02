@@ -62,3 +62,6 @@ Honestly, this shouldn’t be too bad. From my understanding, the residential an
 ## *Part 2*
 
 Coming soon, I'm working on it right now.. almost done ish!
+
+So far, here's the link to my snowflake workbook
+https://app.snowflake.com/adilksi/fqa59308/w4QDdVGNQCNc#query
