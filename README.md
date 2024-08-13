@@ -55,6 +55,41 @@ Yes I believe so. They should be built on primary and foreign keys (the 4 mentio
 
 About to upload in a sec, just finishign up part 2 real quick first :)
 
+```mermaid
+erDiagram
+    COURSES {
+        VARCHAR mnemonic_id PK "Primary Key"
+        TEXT course_name
+        BOOL active
+    }
+
+    INSTRUCTORS {
+        VARCHAR instructor_id PK "Primary Key"
+        TEXT name
+        BOOL active
+    }
+
+    LEARNING_OBJECTIVES {
+        VARCHAR LO_id PK "Primary Key"
+        VARCHAR mnemonic_id FK "Foreign Key"
+        TEXT learning_objective
+        BOOL active
+    }
+
+    COURSE_ASSIGNMENTS {
+        VARCHAR CA_id PK "Primary Key"
+        VARCHAR mnemonic_id FK "Foreign Key"
+        VARCHAR term_id
+        VARCHAR instructor_id FK "Foreign Key"
+    }
+
+    COURSES ||--o{ LEARNING_OBJECTIVES : "has"
+    COURSES ||--o{ COURSE_ASSIGNMENTS : "is assigned"
+    INSTRUCTORS ||--o{ COURSE_ASSIGNMENTS : "teaches"
+
+
+
+
 **9) Suppose you were asked if your database could also support the UVA SDS Residential MSDS Program. Explain any issues that might arise, changes to the database structure (schema), and new data that might be needed. Note you won’t actually need to support this use case for the project.**
 
 Honestly, this shouldn’t be too bad. From my understanding, the residential and online programs have the same courses, just with different instructors. Our courses span a year and a half, while theirs are condensed into a year. Because of this, they might have different learning objectives to fit their program length so we’d need to adjust that table. We also need to add an extra column for the course delivery method. Similar to how SIS shows the location when we sign up for classes—whether it's “Web-based” or an actual classroom number—we can just indicate whether the course is online or residential. This will be useful in tables like instructors and course assignments. But we definitely need the data for all this as its not already provided like the residential was.
