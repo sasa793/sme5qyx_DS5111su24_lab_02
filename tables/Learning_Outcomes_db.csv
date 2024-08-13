@@ -1,0 +1,232 @@
+﻿OutcomeID,MnemonicID,LearningOutcome,IsActive
+1001,ds_biz_analytics,"Understand the fundamentals of modern business with an emphasis on stakeholders, value-creation, industries, markets, and competition",TRUE
+1002,ds_biz_analytics,"Apply data science tools to the primary business functions in which they may be working: strategy, sales, marketing, finance, operations, human resources and technology",TRUE
+1003,ds_biz_analytics,"Understand key data sources, models, metrics, and tools that will be critical to their success during their careers, as they work in or support each of these business areas.",TRUE
+1004,ds_biz_analytics,"Apply ethical data science principles to key business functions (e.g., finance, marketing, etc)",TRUE
+1005,ds_biz_analytics,"Use critical thinking skills to understand, analyze, or solve business problems",TRUE
+1006,ds_biz_analytics,Communicate effectively in both speech and writing,TRUE
+1007,ds_biz_analytics,Collaborate effectively with peers,TRUE
+1008,ds_biz_analytics,Formulate and ask insightful questions,TRUE
+1009,ds_biz_analytics,Engage appropriately with senior executives at an enterprise level,TRUE
+1010,ds_tech_bootcamp,Research documentation on your own as a first line of action,TRUE
+1011,ds_tech_bootcamp,Describe the components of a computer,TRUE
+1012,ds_tech_bootcamp,Explain the scales of computational power and scales of data,TRUE
+1013,ds_tech_bootcamp,"Differentiate between Windows, MacOS ,and Linux operating systems",TRUE
+1014,ds_tech_bootcamp,Compare Command Line (CLI) and Graphical User Interface (GUI) shells,TRUE
+1015,ds_tech_bootcamp,Demonstrate installing software to your computer,TRUE
+1016,ds_tech_bootcamp,Implement important tasks with Linux,TRUE
+1017,ds_tech_bootcamp,Create a GitHub account for career or personal use,TRUE
+1018,ds_tech_bootcamp,Use CLI to operate Git software for version control,TRUE
+1019,ds_tech_bootcamp,Use GUI to operate Github website interface for version control,TRUE
+1020,ds_tech_bootcamp,Know how to Install R,TRUE
+1021,ds_tech_bootcamp,Know how to install and launch Rstudio,TRUE
+1022,ds_tech_bootcamp,Know how to install Anaconda,TRUE
+1023,ds_tech_bootcamp,Know how to launch Spyder,TRUE
+1024,ds_tech_bootcamp,Know how to launch Jupyter Notebook,TRUE
+1025,ds5001,Understand and use language models such as bag of words,TRUE
+1026,ds5001,Understand and use vector space models,TRUE
+1027,ds5001,Understand how to measure similarity between documents,TRUE
+1028,ds5001,Understand how Principal Component Analysis (PCA) works,TRUE
+1029,ds5001,Understand and use topic models such as Latent Dirichlet Allocation (LDA),TRUE
+1030,ds5001,Understand and use word embedding such as glove and word2vec,TRUE
+1031,ds5001,Understand and use sentiment analysis such as VADER,TRUE
+1032,ds5001,Understand and use Naive Bayes classification,TRUE
+1033,cs5012,Have a working knowledge of parallel computing and apply this knowledge for improved computing efficiency,TRUE
+1034,cs5012,"Select, Computationally Assess, and Deploy appropriate and efficient data structures and algorithms to solve Data Science problems",TRUE
+1035,cs5012,"Define and Use Logic, Data Structures, and Algorithms to Solve Problems ",TRUE
+1036,cs5012,"Connect, Transform, and Reduce Real-World Problems to Classical Problem Frameworks to make use of existing, efficient algorithmic solutions",TRUE
+1037,cs5012,Independently Explore advanced or supplementary topics to attain a deeper and complimentary understanding of topics,TRUE
+1038,cs5012,"Reflect on peer-feedback, instructor-feedback, experiences, and lessons-learned related to the use of data structures and algorithms to make continual improvements and updates to methodologies applied ",TRUE
+1039,cs5012,Have a working knowledge of the Algorithm Complexity Class Hierarchy in order to gain perspective of the scope of the field and its contextual application to Data Science ,TRUE
+1040,cs5012,Design and understand regular expressions for pattern matching,TRUE
+1041,cs5012,Understand the important considerations for proper database design,TRUE
+1042,ds5100,Basic Dataframe operations (Python and R),TRUE
+1043,ds5100,Clone a repo on GitHub,TRUE
+1044,ds5100,Confidently work in an appropriate programming environment (IDE),TRUE
+1045,ds5100,Confidently write a class and call its methods to simulate a scenario,TRUE
+1046,ds5100,Confidently write and call functions in both Python and R,TRUE
+1047,ds5100,Correctly pass parameters and retrieve function output(s),TRUE
+1048,ds5100,"Data structures (e.g., sequences and collections: set, list, dict, tuple)",TRUE
+1049,ds5100,Demonstrate how methods are inherited from base classes,TRUE
+1050,ds5100,"Essential primitives (e.g., bool, int, float)",TRUE
+1051,ds5100,Find and utilize resources including online documentation,TRUE
+1052,ds5100,"I/O: at least three different formats, including csv, txt, JSON",TRUE
+1053,ds5100,Identify and utilize primitive data types and data structures [Built in],TRUE
+1054,ds5100,Import data into a Pandas Dataframe,TRUE
+1055,ds5100,Incorporating some exception handling,TRUE
+1056,ds5100,"NumPy, Pandas (essentials)",TRUE
+1057,ds5100,Patch/debug broken code,TRUE
+1058,ds5100,Patch/debug code using in-line testing and unit testing (advanced),TRUE
+1059,ds5100,"Perform sensitivity analysis on functions (e.g., changing inputs and measuring impact on outputs)",TRUE
+1060,ds5100,Perform simple mathematical calculations (Python and R),TRUE
+1061,ds5100,R: Apply the Tidyverse Pipe operator to aggregate data,TRUE
+1062,ds5100,"R: Apply the Tidyverse verbs, such as: select(), filter(), arrange(), mutate(), summarize()",TRUE
+1063,ds5100,R: data types,TRUE
+1064,ds5100,R: Demonstrate use of element-wise operations,TRUE
+1065,ds5100,"R: essential built-in functions like head(), tail(), rbind(), table(), summary(), str()",TRUE
+1066,ds5100,R: get started in RStudio and navigate around,TRUE
+1067,ds5100,R: save code in an R script,TRUE
+1068,ds5100,R: vectorization,TRUE
+1069,ds5100,Read and Write to and from various data formats,TRUE
+1070,ds5100,Read code on GitHub,TRUE
+1071,ds5100,Select and apply an appropriate data structure based on the problem requirements,TRUE
+1072,ds5100,Use a program API to utilize existing functions (e.g. assert statements.),TRUE
+1073,ds5100,"Using program API to utilize existing functions (e.g. sorting, searching, assert statements, etc.)",TRUE
+1074,ds5100,Utilize and implement add-on numerical packages to augment existing data structures,TRUE
+1075,ds5100,Write robust code by implementing the basic principles of program testing and debugging,TRUE
+1076,ds5110,Execute distributed computing frameworks using MapReduce and Spark ,TRUE
+1077,ds5110,"Demonstrate knowledge of applications for big data storage, retrieval, processing, and modeling using Amazon AWS, Hive, and others from the Hadoop ecosystem ",TRUE
+1078,ds5110,"Implement PySpark for prevalent data science tasks, including data analysis and machine learning",TRUE
+1079,ds5110,Execute an end-to-end predictive modeling project using a large dataset,TRUE
+1080,ds5110,"Delineate Spark basic architecture and functionality.
+",TRUE
+1081,ds5110,Apply RDDs and Pair RDDs in data analysis tasks,TRUE
+1082,ds5110,Apply DataFrames in data analysis tasks,TRUE
+1083,ds5110,Apply Spark SQL to data analysis tasks,TRUE
+1084,ds5110,Demonstrate how to preprocess data in PySpark,TRUE
+1085,ds5110,Identify the basics of the MLlib library in PySpark,TRUE
+1086,ds5110,Implement classification models in MLlib,TRUE
+1087,ds5110,Identify the statistics functionality in MLlib,TRUE
+1088,ds5110,Implement regression models in MLlib,TRUE
+1089,ds5110,Examine the alternating least squares algorithm,TRUE
+1090,ds5110,Implement recommender systems in PySpark using collaborative filtering,TRUE
+1091,ds5110,Execute the feature utilities package in ML,TRUE
+1092,ds5110,Construct machine learning pipelines,TRUE
+1093,ds5110,Apply dimension reduction techniques using PySpark,TRUE
+1094,ds5110,Execute model selection and tuning in PySpark,TRUE
+1095,ds5110,Distinguish the use and benefits of accumulators and broadcast variables,TRUE
+1096,ds5110,Build machine learning tools for the supervised learning task,TRUE
+1097,ds5110,Use hyperparameter tuning in Spark,TRUE
+1098,ds5110,Understand the concepts behind HDFS,TRUE
+1099,ds5110,Understand the concepts behind Hive.,TRUE
+1100,ds5110,Have some familiarity with running PySpark in a Databricks notebook,TRUE
+1101,ds5110,"Understand how EC2 and S3 are used for computing and storage, respectively",TRUE
+1102,ds5110,Demonstrate the steps for configuring and launching an AWS EC2 instance,TRUE
+1103,ds5110,Understand the capabilities of Amazon Glue and Athena,TRUE
+1104,ds5110,Understand the concepts and use cases behind Apache Kafka,TRUE
+1105,ds5110,Create and configure an Amazon S3 bucket,TRUE
+1106,ds5110,Apply the concepts behind streaming systems,TRUE
+1107,ds5110,Execute the Spark Streaming library,TRUE
+1108,ds5110,Compute analytics using Spark Streaming,TRUE
+1109,ds5110,Explain the properties of data lakes and data lakehouses,TRUE
+1110,ds5110,"Explain the shortcomings of data lakes, and how data lakehouses address these shortcomings",TRUE
+1111,ds5110,"Work with Apache Delta lakes to implement their salient features (create, delete, update, conditional update, time travel)",TRUE
+1112,ds5110,Implement GraphX and GraphFrames in Spark,TRUE
+1113,ds6001,Recognize how to get help with coding in a way that is accurate and efficient while demonstrating how to be a good citizen in online forums,TRUE
+1114,ds6001,"Implement methods for acquiring electronic data in many formats: csv, flat files, json, from APIs, and using web scraping, and loading it into Python",TRUE
+1115,ds6001,"Understand the purpose, typology, and language of relational databases",TRUE
+1116,ds6001,"Understand the purpose, typology, and language of NoSQL databases",TRUE
+1117,ds6001,"Understand how to implement databases Python: SQLite, PostgreSQL, MySQL, MongoDB",TRUE
+1118,ds6001,Understand how to query databases with SQL ,TRUE
+1119,ds6001,Understand how to query databases with the MongoDB query language,TRUE
+1120,ds6001,"Employ methods for wrangling, joining, and aggregating data using pandas",TRUE
+1121,ds6001,"Understand relationships in data using summary statistics, hypothesis tests, measurement models",TRUE
+1122,ds6001,"Understand relationships in data using visualization with matplotlib, seaborn, plotly",TRUE
+1123,ds6002,Identify situations that demand ethical responses involving data science,TRUE
+1124,ds6002,Develop the skills to respond creatively to critical ethics issues in data science,TRUE
+1125,ds6011,Collect and manage data to devise solutions to assigned research projects,TRUE
+1126,ds6011,"Select, apply, and evaluate models, tools, and methods to address research projects",TRUE
+1127,ds6011,Interpret and assess results and evaluate the limitations of research findings,TRUE
+1128,ds6011,"Resolve group work allocation, leadership, and cooperation issues",TRUE
+1129,ds6013,Collect and manage data to devise solutions to assigned research projects,TRUE
+1130,ds6013,"Select, apply, and evaluate models, tools, and methods to address research projects",TRUE
+1131,ds6013,Interpret and assess results and evaluate the limitations of research findings,TRUE
+1132,ds6013,"Resolve group work allocation, leadership, and cooperation issues",TRUE
+1133,ds6030,Build classification and regression models for a given data set using R statistical software,TRUE
+1134,ds6030,Explain the statistical theory used in data mining that affects how each type of model makes predictions,TRUE
+1135,ds6030,"For a given data set and model, determine the optimal algorithmic parameters to customize the results of the model based on practical goals",TRUE
+1136,ds6030,"Evaluate the performance of a model in terms of various factors such as accuracy, computational cost, interpretability, and practical requirements",TRUE
+1137,ds6030,Determine the most appropriate algorithm for a given data set based on the needs of the user,TRUE
+1138,ds6030,Use visualization techniques to help users understand and interpret the data mining results,TRUE
+1139,ds6030,Implement KNN regression and classification models in R,TRUE
+1140,ds6030,Build linear and nonlinear regression models in R,TRUE
+1141,ds6030,Evaluate bias-variance tradeoff of linear regression method,TRUE
+1142,ds6030,"Implement LR, LDA, and QDA classification in R",TRUE
+1143,ds6030,Implement cross-validation,TRUE
+1144,ds6030,Understand the theory behind principal components,TRUE
+1145,ds6030,Use principal components transformation to visualize data,TRUE
+1146,ds6030,"Use regularization (shrinkage, PCA, lasso) to improve regression accuracy",TRUE
+1147,ds6030,Build a CART in R and use for both classification and regression,TRUE
+1148,ds6030,Build a random forest (RF) for classification and for regression in R,TRUE
+1149,ds6030,Use an SVM for classification and regression in R,TRUE
+1150,ds6030,Use K-Means clustering to explore new data in R,TRUE
+1151,ds6030,Use hierarchical clustering to create and evaluate clusters in R,TRUE
+1152,ds6040,Probability review,TRUE
+1153,ds6040,Use the elements of Bayes theorem in problem solving,TRUE
+1154,ds6040,Use univariate conjugate priors to analytically obtain the posterior distribution,TRUE
+1155,ds6040,Use multivariate conjugate priors to analytically obtain the posterior distribution,TRUE
+1156,ds6040,Use non-informative priors to analytically obtain the posterior distribution,TRUE
+1157,ds6040,Formulate real problems using the fundamentals of statistical decision theory,TRUE
+1158,ds6040,Apply the principles of statistical decision theory to obtain the optimal solutions to classification problems,TRUE
+1159,ds6040,Develop approximate solutions when the required assumptions for optimality in classification are not met,TRUE
+1160,ds6040,Apply the principles of statistical decision theory to obtain the optimal solutions to regression problems,TRUE
+1161,ds6040,Formulate a graphical representation of a joint distribution using nodes to represent conditional probabilities,TRUE
+1162,ds6040,Display Bayesian models using graphs,TRUE
+1163,ds6040,Represent generative models using graphs,TRUE
+1164,ds6040,Apply graphical methods to real problems in text analysis,TRUE
+1165,ds6040,Apply simple sampling methods to approximate distributions,TRUE
+1166,ds6040,Devise Markov models for real problems with conditional dependence,TRUE
+1167,ds6040,Formulate the Markov Chain Monte Carlo (MCMC) approaches to sampling,TRUE
+1168,ds6040,Apply MCMC to real and complex problems in Bayesian inference,TRUE
+1169,ds6040,Apply MCMC to real and complex problems in classifications.,TRUE
+1170,ds6040,Apply MCMC to real and complex problems in regressions,TRUE
+1171,ds6040,Use Bayes factors for model selection,TRUE
+1172,ds6040,Formulate and use hierarchical models on real problems,TRUE
+1173,ds6040,Use information criteria for model selection,TRUE
+1174,ds6040,Formulate and use Bayesian model averaging on real problems,TRUE
+1175,ds6040,Apply the expectation-maximization (EM) algorithm to problems in unsupervised learning,TRUE
+1176,ds6040,Formulate problems with latent variables,TRUE
+1177,ds6040,Formulate problems for solution by the EM algorithm,TRUE
+1178,ds6040,Use Laplacian approximation to estimate probabilities in complex problems,TRUE
+1179,ds6040,Formulate a variational approximation for a Bayesian inference problem,TRUE
+1180,ds6040,Apply variational inference to problems with analytic solutions for comparisons of results,TRUE
+1181,ds6040,Represent variational inference using the EM algorithm,TRUE
+1182,ds6040,Use optimization methods to obtain solutions for variational approximations to real problems,TRUE
+1183,ds6040,Apply evaluation methods to assess the performance of optimizations to obtain variational approximations,TRUE
+1184,ds6040,Apply Markov random field models to represent problems in Bayesian machine learning,TRUE
+1185,ds6040,Formulate Hidden Markov Model (HMM) solution strategies,TRUE
+1186,ds6040,Apply HMMs to problems in data science,TRUE
+1187,ds6040,Identify the range of applicability of methods from Bayesian machine learning to real problems in data science.,TRUE
+1188,ds6040,Connect the many concepts discussed in the course to provide a foundation for continued learning,TRUE
+1189,ds6050,"Create an end-to-end machine learning project at scale using open-source libraries such as NumPy, Keras, TensorFlow, and Google Cloud",TRUE
+1190,ds6050,"Formulate various supervised, unsupervised, and reinforcement learning models",TRUE
+1191,ds6050,"Apply practical skill sets on designing, deploying, and analyzing deep network architectures on complex real-world problems",TRUE
+1192,ds6050,"Use NumPy to describe, identify, and process multi-dimensional arrays and matrices.",TRUE
+1193,ds6050,Identify the components of linear algebra most relevant to deep learning.,TRUE
+1194,ds6050,Summarize numerical concerns for implementations of deep learning algorithms.,TRUE
+1195,ds6050,Design a simple architecture of a multilayer perceptron (MLP).,TRUE
+1196,ds6050,Understand how to design different activation functions to solve the vanishing/exploding gradient problem,TRUE
+1197,ds6050,"Formulate several forms of regularization strategies to create a large, deep, regularized model",TRUE
+1198,ds6050,Review applications of convolutional neural networks (CNNs),TRUE
+1199,ds6050,Study the basics of recurrent neural networks (RNNs),TRUE
+1200,ds6050,Explore the shortcomings of basic RNNs and how to alleviate them with long short-term memory (LSTM) cells,TRUE
+1201,ds6050,Investigate in-depth how autoencoders work and how to use them for dimensionality reduction and feature extraction,TRUE
+1202,ds6050,Interpret hidden latent variables using perturbation and generate new examples,TRUE
+1203,ds6050,"Explain the training process of adversarial neural networks (GANs), where two neural networks compete against each other, and its difficulties",TRUE
+1204,ds6050,Explore various applications of GANs and their recent advances,TRUE
+1205,ds6050,Explore the basic components of reinforcement learning (RL) including the Markov decision process (MDP),TRUE
+1206,ds6050,Learn to solve for the optimal state-action value by using Q-Learning and Deep Q-Networks (DQNs),TRUE
+1207,ds6050,"Examine policy gradients (PGs) to directly optimize the policy, as well as a hybrid method called actor critic advantage",TRUE
+1208,ds6050,Understand how to deploy models to TF Serving and then scale up to Google Cloud AI Platform,TRUE
+1209,ds6050,"Deploy models to mobile apps, embedded devices, and web apps",TRUE
+1210,ds6050,Understand how adversarial attacks work,TRUE
+1211,ds6050,Explore bias in data and algorithms,TRUE
+1212,ds6050,Analyze the issues in uncertainty estimation,TRUE
+1213,stat6021,Use regression analysis to answer questions of interest in a wide variety of application environments,TRUE
+1214,stat6021,Determine the most appropriate regression model for a given data set,TRUE
+1215,stat6021,Identify the assumptions and limitations of a given regression model,TRUE
+1216,stat6021,Diagnose and remedy common problems with the regression model found in real data,TRUE
+1217,stat6021,Work with various data structures and primitive data types in the R programming language,TRUE
+1218,stat6021,"Process R dataframes into the forms necessary for subsequent analysis including subsetting by rows, columns, condition, changing column names, removing missing values, combining dataframes with vectors",TRUE
+1219,stat6021,Use the appropriate numerical and graphical summaries based on the question of interest and type of data,TRUE
+1220,stat6021,Use the statistical software R for regression analysis,TRUE
+1221,stat6021,State appropriate context-specific conclusions from an analysis,TRUE
+1222,stat6021,"Present and discuss orally and in writing, statistical ideas, methods, and results to lay and professional audiences",TRUE
+1223,stat6021,Work in teams to demonstrate the skills of a professional statistician in organizing and managing projects,TRUE
+1224,stat6021,Describe the mathematical framework of regression models,TRUE
+1225,stat6021,Describe the importance of assessing the assumptions and limitations for a given regression model,TRUE
+1226,ds6003,"Build knowledge about the education and training needed for a particular job, career path, and entry into the data science profession",TRUE
+1227,ds6003,"Observe, receive information, and ask questions to acquire knowledge and awareness of data science professions",TRUE
+1228,ds6003,Relate academics with the world of work by connection data science careers to program coursework,TRUE
+1229,ds6012,Identify situations that demand ethical responses involving data science,TRUE
+1230,ds6012,Develop the skills to respond creatively to critical ethics issues in data science,TRUE
