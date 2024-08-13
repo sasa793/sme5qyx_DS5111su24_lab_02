@@ -53,40 +53,9 @@ Yes I believe so. They should be built on primary and foreign keys (the 4 mentio
 
 **8) Draw and submit a Relational Model for your project. For an example, see Beginning Database Design Solutions page 115 Figure 5-28.**
 
-About to upload in a sec, just finishign up part 2 real quick first :)
+*The mermaid code used to produce this is in the ERD_mermaid.md file*
 
-```mermaid
-erDiagram
-    COURSES {
-        VARCHAR mnemonic_id PK "Primary Key"
-        TEXT course_name
-        BOOL active
-    }
-
-    INSTRUCTORS {
-        VARCHAR instructor_id PK "Primary Key"
-        TEXT name
-        BOOL active
-    }
-
-    LEARNING_OBJECTIVES {
-        VARCHAR LO_id PK "Primary Key"
-        VARCHAR mnemonic_id FK "Foreign Key"
-        TEXT learning_objective
-        BOOL active
-    }
-
-    COURSE_ASSIGNMENTS {
-        VARCHAR CA_id PK "Primary Key"
-        VARCHAR mnemonic_id FK "Foreign Key"
-        VARCHAR term_id
-        VARCHAR instructor_id FK "Foreign Key"
-    }
-
-    COURSES ||--o{ LEARNING_OBJECTIVES : "has"
-    COURSES ||--o{ COURSE_ASSIGNMENTS : "is assigned"
-    INSTRUCTORS ||--o{ COURSE_ASSIGNMENTS : "teaches"
-
+![image](https://github.com/user-attachments/assets/d0bc5d32-a0fe-4a67-8a55-98174ffb999f)
 
 
 
