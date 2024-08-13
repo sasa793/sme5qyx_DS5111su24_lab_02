@@ -62,7 +62,7 @@ Honestly, this shouldn’t be too bad. From my understanding, the residential an
 ## *Part 2*
 
 * The notebook **DBdesign.ipynb** is for visualization purposes only, allowing you to easily view my SQL code and the corresponding query outputs. The code doesn’t execute within this file, but it reflects exactly what I did in Snowflake. 
-* The actual SQL code is in the **Part2_DesignCode.sql** document, and the **query_sql_output** folder contains the CSV files corresponding to the outputs seen in the notebook above.
+* The actual SQL code is in the **Part2_DesignCode.sql** document, and the **query_output** folder contains the CSV files corresponding to the outputs seen in the notebook above.
 
 Additionally, here’s the link to my Snowflake workbook, where I completed this part of the assignment:
 https://app.snowflake.com/adilksi/fqa59308/w4QDdVGNQCNc#query
